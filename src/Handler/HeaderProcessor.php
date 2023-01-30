@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Handler;
+namespace AWGuzzle\Handler;
 
 use GuzzleHttp\Utils;
 

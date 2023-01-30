@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp;
+namespace AWGuzzle;
 
 use Psr\Http\Message\MessageInterface;
 

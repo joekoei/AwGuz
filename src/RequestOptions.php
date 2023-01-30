@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp;
+namespace AWGuzzle;
 
 /**
  * This class contains a list of built-in Guzzle request options.

@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp;
+namespace AWGuzzle;
 
 use GuzzleHttp\Promise as P;
 use GuzzleHttp\Promise\PromiseInterface;
