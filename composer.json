@@ -1,5 +1,5 @@
 {
-    "name": "guzzlehttp/guzzle",
+    "name": "awguzzle/guzzle",
     "description": "Guzzle is a PHP HTTP client library",
     "keywords": [
         "framework",
